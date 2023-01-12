@@ -1,0 +1,8 @@
+## Operadores Relacionais em Javascript
+
+- >
+- >=
+- <
+- <=
+- ==
+- !=
