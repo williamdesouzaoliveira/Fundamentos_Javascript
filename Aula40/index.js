@@ -16,6 +16,9 @@ cursos.map((el,i)=>{
     elemento.setAttribute("id", `c${i}`)
     elemento.innerHTML=el
     elemento.setAttribute("class", "curso c1")
+    elemento.addEventListener("click",(element)=>{
+        caixa1.remove(element.target)
+    })
     caixa1.appendChild(elemento)
     
 })

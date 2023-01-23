@@ -1,1 +1,1 @@
-## Criando novos elementos e adicionando no DOM em Javascript
+## Removendo elementos do DOM em Javascript com removeChild 
