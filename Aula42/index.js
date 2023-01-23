@@ -18,5 +18,4 @@ const menor=idades.filter((e)=>{
         return e
     }
 })
-console.log(menor)
 

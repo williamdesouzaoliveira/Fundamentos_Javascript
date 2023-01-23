@@ -1,1 +1,1 @@
-## Entendendo o método FILTER em Javascript
+## Prática com método FILTER em Javascript
