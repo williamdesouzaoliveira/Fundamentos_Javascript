@@ -12,7 +12,6 @@ cursos.map((el,chave)=>{
     novoElemento.setAttribute("class","curso c1")
     novoElemento.innerHTML=el
     
-
     const comandos=document.createElement("div")
     comandos.setAttribute("class", "comandos")
 
@@ -45,6 +44,8 @@ const radioSelecionado=()=>{
 btnCursoSelecionado.addEventListener("click",(e)=>{
 
     // const rs=radioSelecionado()]
+
+
 
     if(radioSelecionado()!=undefined){
         
