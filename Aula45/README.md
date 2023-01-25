@@ -1,1 +1,1 @@
-## Removendo elementos do DOM com Javascript - Função remove()
+## Removendo elementos do DOM com Javascript - Função remove().
