@@ -34,4 +34,4 @@ btn.addEventListener("click",()=>{
 
 
 const classes = classeCaixa2.classList
-console.log(classes)
+// console.log(classes)

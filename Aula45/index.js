@@ -100,7 +100,7 @@ adicionarCursoAntes.addEventListener("click", (e) => {
 adicionarCursoDepois.addEventListener("click", (e) => {
 
     const rs=radioSelecionado()
-    if ((radioSelecionado() != undefined) && (nomeCurso.value !=" ")) {
+    if ((radioSelecionado() != undefined) && (nomeCurso.value !="")) {
         const cursoSelecionado = rs.parentNode.parentNode
         const novoCurso = criarNovoCurso(nomeCurso.value)
         caixaCursos.insertBefore(novoCurso,cursoSelecionado.nextSibling)
