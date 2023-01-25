@@ -32,7 +32,7 @@ cursos.map((el,i)=>{
 
     lixeira.addEventListener("click",(e)=>{
 
-        console.log(e.target.parentNode)
+        console.log(e.target.parentNode.textContent)
         
        caixa1.removeChild(e.target.parentNode)
         
