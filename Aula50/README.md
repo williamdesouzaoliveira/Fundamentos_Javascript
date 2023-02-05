@@ -1,0 +1,1 @@
+## Método SOME pra encontrar algum elemento em Array
